@@ -20,5 +20,5 @@
 <!-- Выбор иконок https://github.com/tandpfun/skill-icons#readme --> 
 
 ## 💻 Контакт:
-[<img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=Gmail&logoColor=white" />](mailto:german@dolnikov.ru)
+[<img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=Mail.Ru&logoColor=white" />](mailto:german@dolnikov.ru)
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/dolnikov)
