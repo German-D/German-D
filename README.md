@@ -26,6 +26,6 @@
 
 <!-- Выбор логотипа ↑↑ https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> 
 
-<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" width="208px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">
-<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" width="208px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">
-<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" width="208px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">
+[<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" width="208px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">](https://ude.my/UC-34d445c7-105b-4cf9-8f8b-48c99ecfd1f5)
+[<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" width="208px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">](https://ude.my/UC-34d445c7-105b-4cf9-8f8b-48c99ecfd1f5)
+[<img src="https://user-images.githubusercontent.com/86494748/166982504-897912b0-76e6-487a-bcb7-749484d34a0b.jpg" width="208px" alt="Сертификат об окончании курса «React с нуля для начинающих. +3 проекта в портфолио!»">](https://ude.my/UC-34d445c7-105b-4cf9-8f8b-48c99ecfd1f5)
