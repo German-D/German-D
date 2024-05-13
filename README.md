@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=German-D&layout=compact&langs_count=8&card_width=320)
 
 <!-- Выбор темы: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
-![](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=github-compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=default)
 
 ## 💻 Стек:
 
