@@ -1,5 +1,3 @@
-Привет！ 👋
-
 ## 📊 Статистика:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
