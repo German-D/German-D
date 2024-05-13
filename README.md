@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=German-D&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=German-D&theme=default&show_icons=true)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=German-D)](https://github.com/ryo-ma/github-profile-trophy)
 
