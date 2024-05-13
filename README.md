@@ -8,7 +8,7 @@
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=default)
+![](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=minimal)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
