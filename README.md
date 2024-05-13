@@ -7,7 +7,7 @@
   <img alt="Top Used Languages" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=German-D&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=github-compact)](https://github.com/German-D/github-readme-activity-graph)
 
 ## 💻 Стек:
 
@@ -17,3 +17,7 @@
 
 <!-- Выбор иконок https://github.com/tandpfun/skill-icons#readme --> 
 
+
+## 📊 Статистика:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default)
