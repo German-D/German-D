@@ -21,10 +21,7 @@
 <!-- Выбор иконок ↑↑ https://github.com/tandpfun/skill-icons#readme --> 
 
 ## 💻 Контакт
-[<img src="https://img.shields.io/badge/email-grey?style=for-the-badge&logo=Mail.Ru&logoColor=white" />](mailto:german@dolnikov.ru)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/dolnikov)
-
-<!-- Выбор логотипа ↑↑ https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> 
-
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
+
+<!-- Выбор логотипа ↑↑ https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> 
