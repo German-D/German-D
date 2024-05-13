@@ -12,5 +12,8 @@
 ## 💻 Стек:
 
 <a href="https://skillicons.dev">
-  <img alt="Technologies" src="https://skillicons.dev/icons?i=html,css,js,ts,git,scss,vue,vite" />
+  <img alt="Technologies" src="https://skillicons.dev/icons?i=html,git,cypress,docker,firebase,grafana,githubactions,gitlab,kafka,mongodb,postgres,postman,sublime,sentry,vscode," />
 </a> 
+
+<!-- Выбор иконок https://github.com/tandpfun/skill-icons#readme --> 
+
