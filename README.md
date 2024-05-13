@@ -9,12 +9,6 @@
 <!-- Выбор темы: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=German-D&theme=github-compact)](https://github.com/German-D/github-readme-activity-graph)
 
-
-## :bar_chart:Git stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=German-D&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=German-D&theme=default) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=German-D&theme=default)
-
 ## 💻 Стек:
 
 <a href="https://skillicons.dev">
