@@ -1,4 +1,4 @@
-``#  Привет！ 👋
+#  Привет！ 👋
 Меня зовут Герман, я QA Engineer
 
 ## 📊 Статистика
@@ -20,7 +20,7 @@
 
 ## 🪴 Обучение
 [<img src="/certificate_en11.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/certificate_en11.png)
-[<img src="/Recommendation.jpg" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation.jpg)
+[<img src="/Recommendation.jpg" width="400px" hspace="10px" border="1px solid #555" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation.jpg)
 
 <br>
 
