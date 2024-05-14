@@ -21,9 +21,9 @@
 <!-- Выбор иконок ↑↑ https://github.com/tandpfun/skill-icons#readme --> 
 
 ## 🪴 Практика и стажировка
-[<img src="/diploma_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
-<br>
-[<img src="/stepic_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
+[<img src="/diploma_ru.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
+
+[<img src="/stepic_ru.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
 
 
 ## 🤝 Контакт
