@@ -20,11 +20,14 @@
 
 <!-- Выбор иконок ↑↑ https://github.com/tandpfun/skill-icons#readme --> 
 
+## 🪴 Практика и стажировка
+[<img src="/diploma_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
+<br>
+[<img src="/stepic_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
+
+
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
 
 <!-- Выбор логотипа ↑↑ https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> 
-
-[<img src="/diploma_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
-[<img src="/stepic_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
