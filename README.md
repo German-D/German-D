@@ -18,6 +18,12 @@
 
 <br>
 
+## 🪴 Обучение
+[<img src="/certificate_en11.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/certificate_en11.png)
+[<img src="/Recommendation.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation.png)
+
+<br>
+
 ## 💻 Стек
 
 <a href="https://skillicons.dev">
