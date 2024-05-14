@@ -26,5 +26,5 @@
 
 <!-- Выбор логотипа ↑↑ https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> 
 
-[<img src="/diploma_ru.png" width="220px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
-[<img src="/stepic_ru" width="220px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
+[<img src="/diploma_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
+[<img src="/stepic_ru.png" width="320px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
