@@ -16,6 +16,8 @@
 [<img src="/diploma_ru.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
 [<img src="/stepic_ru.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
 
+<br>
+
 ## 💻 Стек
 
 <a href="https://skillicons.dev">
