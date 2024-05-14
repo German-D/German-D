@@ -18,7 +18,7 @@
 
 <br>
 
-## 🙌 Образование
+## 🎒 Образование
 [<img src="/certificate_en11.png" width="400px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/certificate_en11.png)
 [<img src="/Recommendation1.jpg" width="400px" hspace="10px" style="border:1px solid #000000" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation1.jpg)
 
