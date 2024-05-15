@@ -80,7 +80,7 @@
 
 ## 🎒 Образование
 [<img src="/certificate_en11.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/certificate_en11.png)
-[<img src="/Recommendation1.jpg" width="280px" hspace="10px" style="border:1px solid #000000" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation1.jpg)
+[<img src="/Recommendation1.jpg" width="280px" hspace="10px" style="border:50px solid #000000;" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation1.jpg)
 
 <br>
 <br>
