@@ -4,8 +4,6 @@
 ## 📊 Статистика
 
 ![](https://github-readme-stats.vercel.app/api?username=German-D&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=German-D&layout=compact&langs_count=4&card_width=320)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=German-D&layout=donut&langs_count=4)
 
 
