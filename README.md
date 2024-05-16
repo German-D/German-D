@@ -3,7 +3,7 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?username=German-D&hide=rank,commits,prs,issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320)
+![](https://github-readme-stats.vercel.app/api?username=German-D&hide_rank=true&show_icons=true&locale=en&langs_count=8&card_width=320)
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=German-D&layout=compact&langs_count=8&card_width=320)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
