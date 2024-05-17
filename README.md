@@ -74,14 +74,14 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/diploma_ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/diploma_ru.png)
-[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
+[<img src="/certificate_ru.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/certificate_ru.png)
+[<img src="/stepic_ru.png" width="280px" hspace="10px" alt="Сертификат от степика»">](https://github.com/German-D/German-D/blob/main/stepic_ru.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/certificate_en11.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/certificate_en11.png)
-[<img src="/Recommendation1.jpg" width="280px" hspace="10px" style="border:50px solid #000000;" alt="Сертификат об окончании стажировки»">](https://github.com/German-D/German-D/blob/main/Recommendation1.jpg)
+[<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://github.com/German-D/German-D/blob/main/diploma_en.png)
+[<img src="/recommendation.jpg" width="280px" hspace="10px" style="border:50px solid #000000;" alt="Рекомендательное письмо»">](https://github.com/German-D/German-D/blob/main/recommendation.jpg)
 
 <br>
 <br>
