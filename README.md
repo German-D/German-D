@@ -4,12 +4,13 @@
 
 ## 📊 Статистика
 
-![](https://github-readme-stats.vercel.app/api?username=German-D&hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=German-D&layout=donut&langs_count=6&hide_progress=true)
+![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=German-D)
+![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=German-D)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
+<!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
 
-![](https://github-readme-activity-graph.vercel.app/graph?&username=German-D&theme=minimal)
+![](https://github-readme-activity-graph.vercel.app/graph?&theme=minimal&username=German-D)
 
 <!-- Выбор темы ↑↑: https://github.com/Ashutosh00710/github-readme-activity-graph/blob/main/THEMES.md --> 
 
@@ -71,6 +72,10 @@
   <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
 </div>
 
+<!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
+<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
+
+
 <br>
 
 ## 🪴 Практика и стажировка
@@ -81,7 +86,7 @@
 
 ## 🎒 Образование
 [<img src="/diploma_en.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en.png)
-[<img src="/recommendation.jpg" width="280px" hspace="10px" style="border:50px solid #000000;" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation.jpg)
+[<img src="/recommendation.jpg" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/recommendation.jpg)
 
 <br>
 <br>
@@ -90,4 +95,4 @@
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:german@dolnikov.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/dolnikov)
 
-<!-- Выбор логотипа ↑↑ https://github.com/simple-icons/simple-icons/blob/master/slugs.md --> 
+<!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
